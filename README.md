@@ -9,7 +9,7 @@ Official PyTorch implementation of **HALO** — a dual-prior-driven framework fo
 
 > **HALO** = **H**omogeneity **A**nd boundary heterogeneity for **LO**w-light remote sensing image enhancement
 
-**Authors:** [Xingxing Yang](https://github.com/AlexYangxx), Yaozi Zhong, Shaohui Mei, Mingyang Ma
+**Authors:** [Xingxing Yang](https://scholar.google.com/citations?user=0y5m7O8AAAAJ&hl=zh-CN), Yaozi Zhong, Shaohui Mei, Mingyang Ma
 
 ---
 
